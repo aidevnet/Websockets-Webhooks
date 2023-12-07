@@ -1,0 +1,36 @@
+21/01/2023-23:55:26
+NXOS Login successful.
+21/01/2023-23:55:26
+Subscription successful. Subscription IDs:
+18374686488244781057
+
+21/01/2023-23:56:11
+NXOS Login successful.
+21/01/2023-23:56:11
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686488244781057; 
+21/01/2023-23:56:57
+NXOS Login successful.
+21/01/2023-23:56:57
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686488244781057; 
+21/01/2023-23:57:42
+NXOS Login successful.
+21/01/2023-23:57:42
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686488244781057; 
+21/01/2023-23:58:27
+NXOS Login successful.
+21/01/2023-23:58:27
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686488244781057; 
+21/01/2023-23:59:13
+NXOS Login successful.
+21/01/2023-23:59:13
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686488244781057; 
+21/01/2023-23:59:58
+NXOS Login successful.
+21/01/2023-23:59:58
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686488244781057; 

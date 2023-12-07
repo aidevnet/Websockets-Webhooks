@@ -1,0 +1,383 @@
+06/02/2023-06:45:31
+NXOS Login successful.
+06/02/2023-06:45:36
+Subscription successful. Subscription IDs:
+18374686509719617537
+18374686509719617538
+18374686509719617539
+18374686509719617540
+
+06/02/2023-06:46:17
+NXOS Login successful.
+06/02/2023-06:46:21
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:47:07
+NXOS Login successful.
+06/02/2023-06:47:10
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:47:56
+NXOS Login successful.
+06/02/2023-06:48:00
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:48:46
+NXOS Login successful.
+06/02/2023-06:48:49
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:49:35
+NXOS Login successful.
+06/02/2023-06:49:39
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:50:25
+NXOS Login successful.
+06/02/2023-06:50:28
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:51:14
+NXOS Login successful.
+06/02/2023-06:51:18
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:52:04
+NXOS Login successful.
+06/02/2023-06:52:07
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:52:53
+NXOS Login successful.
+06/02/2023-06:52:57
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:53:43
+NXOS Login successful.
+06/02/2023-06:53:46
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:54:32
+NXOS Login successful.
+06/02/2023-06:54:36
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:55:22
+NXOS Login successful.
+06/02/2023-06:55:26
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:56:12
+NXOS Login successful.
+06/02/2023-06:56:15
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:57:01
+NXOS Login successful.
+06/02/2023-06:57:05
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:57:51
+NXOS Login successful.
+06/02/2023-06:57:55
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:58:41
+NXOS Login successful.
+06/02/2023-06:58:44
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686509719617537; 18374686509719617538; 18374686509719617539; 18374686509719617540; 
+06/02/2023-06:58:47
+on_close() takes 1 positional argument but 3 were given
+06/02/2023-06:59:30
+NXOS Login successful.
+06/02/2023-06:59:34
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:00:20
+NXOS Login successful.
+06/02/2023-07:00:23
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:01:10
+NXOS Login successful.
+06/02/2023-07:01:14
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:02:00
+NXOS Login successful.
+06/02/2023-07:02:04
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:02:50
+NXOS Login successful.
+06/02/2023-07:02:53
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:03:39
+NXOS Login successful.
+06/02/2023-07:03:43
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:04:29
+NXOS Login successful.
+06/02/2023-07:04:33
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:05:19
+NXOS Login successful.
+06/02/2023-07:05:22
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686509719617537 could not be refreshed.
+Subscription 18374686509719617538 could not be refreshed.
+Subscription 18374686509719617539 could not be refreshed.
+Subscription 18374686509719617540 could not be refreshed.
+
+06/02/2023-07:06:01
+NXOS Login successful.
+06/02/2023-07:06:06
+Subscription successful. Subscription IDs:
+18374686514014584833
+18374686514014584834
+18374686514014584835
+18374686514014584836
+
+06/02/2023-07:06:47
+NXOS Login successful.
+06/02/2023-07:06:51
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:07:36
+NXOS Login successful.
+06/02/2023-07:07:40
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:08:26
+NXOS Login successful.
+06/02/2023-07:08:30
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:09:16
+NXOS Login successful.
+06/02/2023-07:09:19
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:10:05
+NXOS Login successful.
+06/02/2023-07:10:09
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:10:55
+NXOS Login successful.
+06/02/2023-07:10:58
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:11:44
+NXOS Login successful.
+06/02/2023-07:11:48
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:12:34
+NXOS Login successful.
+06/02/2023-07:12:37
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:13:23
+NXOS Login successful.
+06/02/2023-07:13:27
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:14:13
+NXOS Login successful.
+06/02/2023-07:14:16
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:15:02
+NXOS Login successful.
+06/02/2023-07:15:06
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:15:52
+NXOS Login successful.
+06/02/2023-07:15:55
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:16:41
+NXOS Login successful.
+06/02/2023-07:16:45
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:17:31
+NXOS Login successful.
+06/02/2023-07:17:35
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:18:20
+NXOS Login successful.
+06/02/2023-07:18:24
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686514014584833; 18374686514014584834; 18374686514014584835; 18374686514014584836; 
+06/02/2023-07:18:49
+on_close() takes 1 positional argument but 3 were given
+06/02/2023-07:19:10
+NXOS Login successful.
+06/02/2023-07:19:14
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:20:00
+NXOS Login successful.
+06/02/2023-07:20:03
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:20:49
+NXOS Login successful.
+06/02/2023-07:20:53
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:21:39
+NXOS Login successful.
+06/02/2023-07:21:42
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:22:28
+NXOS Login successful.
+06/02/2023-07:22:32
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:23:18
+NXOS Login successful.
+06/02/2023-07:23:22
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:24:08
+NXOS Login successful.
+06/02/2023-07:24:11
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:24:57
+NXOS Login successful.
+06/02/2023-07:25:01
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:25:47
+NXOS Login successful.
+06/02/2023-07:25:51
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:26:37
+NXOS Login successful.
+06/02/2023-07:26:41
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:27:27
+NXOS Login successful.
+06/02/2023-07:27:31
+Subscription Refresh successful. Refreshed subscription IDs: 
+Subscription 18374686514014584833 could not be refreshed.
+Subscription 18374686514014584834 could not be refreshed.
+Subscription 18374686514014584835 could not be refreshed.
+Subscription 18374686514014584836 could not be refreshed.
+
+06/02/2023-07:28:17
+NXOS Login successful.
+06/02/2023-08:17:53
+NXOS Login successful.
+06/02/2023-08:17:57
+Subscription successful. Subscription IDs:
+18374686518309552129
+18374686518309552130
+18374686518309552131
+18374686518309552132
+
+06/02/2023-08:18:39
+NXOS Login successful.
+06/02/2023-08:18:43
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686518309552129; 18374686518309552130; 18374686518309552131; 18374686518309552132; 
+06/02/2023-08:19:29
+NXOS Login successful.
+06/02/2023-08:19:32
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686518309552129; 18374686518309552130; 18374686518309552131; 18374686518309552132; 
+06/02/2023-08:20:18
+NXOS Login successful.
+06/02/2023-08:20:22
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686518309552129; 18374686518309552130; 18374686518309552131; 18374686518309552132; 
+06/02/2023-08:21:08
+NXOS Login successful.
+06/02/2023-08:21:12
+Subscription Refresh successful. Refreshed subscription IDs: 
+18374686518309552129; 18374686518309552130; 18374686518309552131; 18374686518309552132; 
+06/02/2023-08:21:26
+
+06/02/2023-08:21:27
+on_close() takes 1 positional argument but 3 were given

@@ -1,0 +1,14 @@
+13/01/2023-23:37:22
+APIC Login successful.
+13/01/2023-23:40:56
+APIC Login successful.
+13/01/2023-23:40:56
+'subscriptionId'
+13/01/2023-23:45:13
+
+13/01/2023-23:45:13
+on_close() takes 1 positional argument but 3 were given
+13/01/2023-23:59:37
+APIC Login successful.
+13/01/2023-23:59:37
+'subscriptionId'
